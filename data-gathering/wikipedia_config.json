@@ -1,0 +1,29 @@
+{
+    "es": {
+        "file_to_be_analysed": "uruguay_article_file.csv",
+        "result_file": "uruguay_results.txt",
+        "language": "es",
+        "discussionURL": "discusi%C3%B3n%3A",
+        "warnings_config": 0,
+        "featured_template": "{{artículo destacado",
+        "display_window_template": "{{artículo bueno"
+    },
+    "it": {
+        "file_to_be_analysed": "italian_article_file.csv",
+        "result_file": "italian_results.txt",
+        "language": "it",
+        "discussionURL": "discussione%3A",
+        "warnings_config": 0,
+        "featured_template": "{{voce in vetrina",
+        "display_window_template": "{{voce buona"
+    },
+    "en": {
+        "language": "en",
+        "file_to_be_analysed": "ghana_article_file.csv",
+        "result_file": "ghana_results.txt",
+        "discussionURL": "talk%3A",
+        "warnings_config": 0,
+        "featured_template": "{{featured article",
+        "display_window_template": "{{good article"
+    }
+}
